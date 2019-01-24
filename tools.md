@@ -3,3 +3,7 @@
   - IBM Statistics
   - Orange
   - Rapid Miner
+  
+ # New tools 
+ 
+  - Tableau Prep added
