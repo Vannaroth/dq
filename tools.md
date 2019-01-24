@@ -3,6 +3,7 @@
   - IBM Statistics
   - Orange
   - Rapid Miner
+  WEKKKA
   
  # New tools 
  
