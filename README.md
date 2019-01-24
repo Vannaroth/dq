@@ -7,4 +7,4 @@
   - Wekka
 ## Section 3: Use cases
   - Customer segmentation
-  - customer churns
+  
